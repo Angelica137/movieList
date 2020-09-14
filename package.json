@@ -4,7 +4,6 @@
   "description": "Dune is coming out soon! I am totally facing covid for the imax experience.",
   "main": "index.js",
   "scripts": {
-    "start": "webpack --mode development",
     "start": "webpack-dev-server --mode development --hot",
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
