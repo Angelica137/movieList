@@ -6,3 +6,4 @@ tun tun tun!
 
 webpack
 react
+how to structure react projects
