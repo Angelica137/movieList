@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Angelica137/movieList/issues"
   },
-  "homepage": "https://github.com/Angelica137/movieList#readme"
+  "homepage": "https://github.com/Angelica137/movieList#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
 }
